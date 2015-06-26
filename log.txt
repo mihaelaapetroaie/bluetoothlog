@@ -1,0 +1,23 @@
+2015-06-26 12:27:10.270644
+	BD Address:  04:98:F3:D9:3A:D7
+	Device Name: YOKOYAMA-NOTE
+	LMP Version: 4.0 (0x6) LMP Subversion: 0x22bb
+	Manufacturer: Cambridge Silicon Radio (10)
+	Features page 0: 0xff 0xff 0x8b 0xfe 0xdb 0xff 0x5b 0x83
+		<3-slot packets> <5-slot packets> <encryption> <slot offset> 
+		<timing accuracy> <role switch> <hold mode> <sniff mode> 
+		<park state> <RSSI> <channel quality> <SCO link> <HV2 packets> 
+		<HV3 packets> <u-law log> <A-law log> <CVSD> <paging scheme> 
+		<transparent SCO> <broadcast encrypt> <EDR ACL 2 Mbps> 
+		<EDR ACL 3 Mbps> <enhanced iscan> <interlaced iscan> 
+		<interlaced pscan> <inquiry with RSSI> <extended SCO> 
+		<EV4 packets> <EV5 packets> <AFH cap. slave> 
+		<AFH class. slave> <LE support> <3-slot EDR ACL> 
+		<5-slot EDR ACL> <sniff subrating> <pause encryption> 
+		<AFH cap. master> <AFH class. master> <EDR eSCO 2 Mbps> 
+		<EDR eSCO 3 Mbps> <3-slot EDR eSCO> <extended inquiry> 
+		<LE and BR/EDR> <simple pairing> <encapsulated PDU> 
+		<non-flush flag> <LSTO> <inquiry TX power> <extended features> 
+	Features page 1: 0x03 0x00 0x00 0x00 0x00 0x00 0x00 0x00
+
+
